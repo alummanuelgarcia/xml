@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listalibros xmlns:libros="http:google.com">
+    <libros:libros>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Lopez</libros:apellido1>
+                <libros:apellido2>Rodriguez</libros:apellido2>
+                <libros:nombre>Carmen</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1>Perez</libros:apellido1>
+                <libros:apellido2>Sanchez</libros:apellido2>
+                <libros:nombre>Ana</libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Microeconomia</libros:titulo>
+        <libros:editorial>Ed. de economia</libros:editorial>
+        <libros:publicacion>Abril 2010 </libros:publicacion>
+        <libros:ISBN>1-232-541-21</libros:ISBN>
+    </libros:libros>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <autores>
+        <autor>
+            <apellido1>a</apellido1>
+            <apellido2>a</apellido2>
+            <nombre>a</nombre>
+        </autor>
+        <autor>
+            <apellido1>a</apellido1>
+            <apellido2>a</apellido2>
+            <nombre>a</nombre>
+        </autor>
+    </autores>
+    <titulo>a</titulo>
+    <editorial>a</editorial>
+    <publicacion>a</publicacion>
+    <ISBN>a</ISBN>
+</libros>

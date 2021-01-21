@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listalibros xmlns:libros="hhtp">
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Lopez</libros:apellido1>
+                <libros:apellido2>Rodriguez</libros:apellido2>
+                <libros:nombre>Carmen</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1>Perez</libros:apellido1>
+                <libros:apellido2>Sanchez</libros:apellido2>
+                <libros:nombre>Ana</libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Microeconomia</libros:titulo>
+        <libros:editorial>Ed. de economia</libros:editorial>
+        <libros:publicacion>Abril 2010 </libros:publicacion>
+        <libros:ISBN>1-232-541-21</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Jimenez</libros:apellido1>
+                <libros:apellido2>Amaya</libros:apellido2>
+                <libros:nombre>Raul</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>La guerra</libros:titulo>
+        <libros:editorial>Puerta</libros:editorial>
+        <libros:publicacion>Diciembre 1990</libros:publicacion>
+        <libros:ISBN>9-587-188-98</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Gutierrez</libros:apellido1>
+                <libros:apellido2>Lopez</libros:apellido2>
+                <libros:nombre>Juan</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Problemas en la granja</libros:titulo>
+        <libros:editorial> Lopez Editorial</libros:editorial>
+        <libros:publicacion>Febrero 2010</libros:publicacion>
+        <libros:ISBN>9-658-548-51</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Sanchez</libros:apellido1>
+                <libros:apellido2>Amaya</libros:apellido2>
+                <libros:nombre>Ana</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Julio en Primavera</libros:titulo>
+        <libros:editorial>Trente</libros:editorial>
+        <libros:publicacion>Junio 2009</libros:publicacion>
+        <libros:ISBN>5-895-554-55</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Yumi</libros:apellido1>
+                <libros:apellido2>Mingoya</libros:apellido2>
+                <libros:nombre>Paula</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Navidad Embrujada</libros:titulo>
+        <libros:editorial>Trente</libros:editorial>
+        <libros:publicacion>Diciembre 2004</libros:publicacion>
+        <libros:ISBN>4-987-654-87</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Huescar</libros:apellido1>
+                <libros:apellido2>Lopez</libros:apellido2>
+                <libros:nombre>Lola</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Juan Williams</libros:titulo>
+        <libros:editorial>Saco Oro</libros:editorial>
+        <libros:publicacion>Octubre 2007</libros:publicacion>
+        <libros:ISBN>9-266-215-54</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Williams</libros:apellido1>
+                <libros:apellido2>Carrey</libros:apellido2>
+                <libros:nombre>Jonh</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Sometimes cry</libros:titulo>
+        <libros:editorial>Door</libros:editorial>
+        <libros:publicacion>Diciembre 2009</libros:publicacion>
+        <libros:ISBN>5-874-965-85</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Jimenez</libros:apellido1>
+                <libros:apellido2>Fernandez</libros:apellido2>
+                <libros:nombre>Raul</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Fernandez Castillo</libros:titulo>
+        <libros:editorial>Trente</libros:editorial>
+        <libros:publicacion>Junio 2002</libros:publicacion>
+        <libros:ISBN>2-652-523-55</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Maradona</libros:apellido1>
+                <libros:apellido2>Armando</libros:apellido2>
+                <libros:nombre>Diego</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>Amor Argentina</libros:titulo>
+        <libros:editorial>Argentina Collections</libros:editorial>
+        <libros:publicacion> Junio 1990</libros:publicacion>
+        <libros:ISBN>8-515-622-55</libros:ISBN>
+    </libros:libro>
+    <libros:libro>
+        <libros:autores>
+            <libros:autor>
+                <libros:apellido1>Jimenez</libros:apellido1>
+                <libros:apellido2>Amaya</libros:apellido2>
+                <libros:nombre>Ana</libros:nombre>
+            </libros:autor>
+            <libros:autor>
+                <libros:apellido1></libros:apellido1>
+                <libros:apellido2></libros:apellido2>
+                <libros:nombre></libros:nombre>
+            </libros:autor>
+        </libros:autores>
+        <libros:titulo>La estrategia</libros:titulo>
+        <libros:editorial>Ocaso</libros:editorial>
+        <libros:publicacion>Marzo 2001</libros:publicacion>
+        <libros:ISBN>5-325-215-55</libros:ISBN>
+    </libros:libro>
+</listalibros>
