@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsi=noNamespaceSchemaLocation="ejercicioesquemas.xsd"
+    version="0.1" xml:lang="es" >
+<concesionario> 
+    <coche>
+     <codcoche>11200 </codcoche> 
+     <marca> Ford </marca>
+     <modelo> Fiesta </modelo>
+     <matricula> CA 12345</matricula>
+     <potencia> 110</potencia>
+     <plazas>5 </plazas>
+     <numpuertas>5 </numpuertas>    
+    </coche>
+    <coche>
+     <codcoche>11201 </codcoche> 
+     <marca> Ferrari</marca>
+     <modelo> Testarosa </modelo>
+     <matricula> MA 23413</matricula>
+     <potencia> 300 </potencia>
+     <plazas> 2</plazas>
+     <numpuertas>3 </numpuertas>    
+    </coche>
+    <coche>
+     <codcoche>11202 </codcoche> 
+     <marca> Opel</marca>
+     <modelo> Zafira </modelo>
+     <matricula> MA 23843</matricula>
+     <potencia> 110 </potencia>
+     <plazas> 7</plazas>
+     <numpuertas> 5 </numpuertas>    
+    </coche>
+</concesionario>

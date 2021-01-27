@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad>
+        <nombre> Nueva Dehli </nombre>
+        <pais continente ="Asia">India </pais>   
+    </ciudad>
+</ciudades>

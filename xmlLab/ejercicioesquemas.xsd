@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsi=noNamespaceSchemaLocation="ejercicioesquemas.xsd"
+    version="0.1" xml:lang="es" >
+
+
+<xs:element name ="concesionario"> 
+    <xs:element name = "coche">
+     <xs:element name ="codcoche" type="xs:integer">11200 </xs:element name ="codcoche" type="xs:integer"> 
+     <marca> Ford </marca>
+     <modelo> Fiesta </modelo>
+     <matricula> CA 12345</matricula>
+     <potencia> 110</potencia>
+     <plazas>5 </plazas>
+     <numpuertas>5 </numpuertas>    
+    </xs:element name = "coche">
+    <xs:element name = "coche">
+     <xs:element name ="codcoche" type="xs:integer">11201 </xs:element name ="codcoche" type="xs:integer"> 
+     <marca> Ferrari</marca>
+     <modelo> Testarosa </modelo>
+     <matricula> MA 23413</matricula>
+     <potencia> 300 </potencia>
+     <plazas> 2</plazas>
+     <numpuertas>3 </numpuertas>    
+    </xs:element name = "coche">
+    <xs:element name = "coche">
+     <xs:element name ="codcoche" type="xs:integer">11202 </xs:element name ="codcoche" type="xs:integer"> 
+     <marca> Opel</marca>
+     <modelo> Zafira </modelo>
+     <matricula> MA 23843</matricula>
+     <potencia> 110 </potencia>
+     <plazas> 7</plazas>
+     <numpuertas> 5 </numpuertas>    
+    </xs:element name = "coche">
+</xs:element name= "concesionario">
